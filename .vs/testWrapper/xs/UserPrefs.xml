@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D9D1879C-8BC8-4ADB-B59D-FCD4C93B9E1F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Documents/e-goi-wrappers/e-goi-wrapper-csharp/EgoiApiProject/EgoiApi/Impl/Rest/EgoiApiRestImpl.cs">
+    <Files>
+      <File FileName="../../Documents/e-goi-wrappers/e-goi-wrapper-csharp/EgoiApiProject/EgoiApi/Impl/Rest/EgoiApiRestImpl.cs" Line="196" Column="87" />
+      <File FileName="testWrapper/Program.cs" Line="8" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.testWrapper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

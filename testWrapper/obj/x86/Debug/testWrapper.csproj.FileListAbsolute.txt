@@ -1,0 +1,10 @@
+/Users/chenriques/Projects/testWrapper/testWrapper/bin/Debug/testWrapper.exe
+/Users/chenriques/Projects/testWrapper/testWrapper/bin/Debug/testWrapper.pdb
+/Users/chenriques/Projects/testWrapper/testWrapper/obj/x86/Debug/testWrapper.csprojAssemblyReference.cache
+/Users/chenriques/Projects/testWrapper/testWrapper/obj/x86/Debug/testWrapper.csproj.CoreCompileInputs.cache
+/Users/chenriques/Projects/testWrapper/testWrapper/obj/x86/Debug/testWrapper.exe
+/Users/chenriques/Projects/testWrapper/testWrapper/obj/x86/Debug/testWrapper.pdb
+/Users/chenriques/Projects/testWrapper/testWrapper/bin/Debug/EgoiApi.dll
+/Users/chenriques/Projects/testWrapper/testWrapper/bin/Debug/CookComputing.XmlRpcV2.dll
+/Users/chenriques/Projects/testWrapper/testWrapper/bin/Debug/EgoiApi.pdb
+/Users/chenriques/Projects/testWrapper/testWrapper/obj/x86/Debug/testWrapper.csproj.CopyComplete
